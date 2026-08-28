@@ -5,4 +5,9 @@
 * aquaman
 * atom
 * chica halcon 
-* mujer maravill
+* mujer maravilla
+* atom eve
+* invincible
+* monster girl
+* bebe negocios
+* tech jacket
